@@ -18,6 +18,6 @@ Making my first contribution to the open-source community is a goal I'm actively
 
 Connect with me on LinkedIn for more insights into my journey:
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/akritbehera/)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/linkedin.png)](https://www.linkedin.com/in/yourusername)
 
 Feel free to reach out if you share similar interests or if you'd like to explore potential collaboration opportunities. Let's learn, grow, and innovate together! 🚀
